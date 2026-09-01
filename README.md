@@ -131,5 +131,5 @@ python onnx_pipeline.py
 ---
 
 ## 🛡️ License
-Designed and developed for the **Hackathon (Developer Tools Track)**.
+Designed and developed for the**Hackathon (Developer Tools Track)**.
 Licensed under the Apache 2.0 License.
