@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AirCloak</string>
+    <string name="accessibility_service_description">AirCloak Edge Guardian: Inspects clipboard and input fields to detect and tokenize unmasked credentials before leak.</string>
+</resources>
